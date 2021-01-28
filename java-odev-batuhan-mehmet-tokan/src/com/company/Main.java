@@ -4,9 +4,9 @@ import java.util.Random;
 //5.Sorunun class yapısı
  class Cember
 {
-    public String renk;
-    public  double ycap;
-    public double alan;
+    private String renk;
+    private  double ycap;
+    private double alan;
 
     public Cember()
     {
